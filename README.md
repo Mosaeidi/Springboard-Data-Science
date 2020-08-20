@@ -1,1 +1,1 @@
-# Springboard-Data-Science
+# Springboard: This repository contains projects and case studies.
