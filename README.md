@@ -1,1 +1,2 @@
-# Springboard: This repository contains projects and case studies.
+# Springboard: 
+### This repository contains projects and case studies.
